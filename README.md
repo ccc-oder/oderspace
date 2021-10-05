@@ -28,7 +28,7 @@ https://www.merriam-webster.com/dictionary/space
 
 
 
-## obszar funkcjonowaia: 
+## Obszar funkcjonowania: 
 
 obszar rzeki Odry 
 
