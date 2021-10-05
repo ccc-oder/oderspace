@@ -46,7 +46,57 @@ Początek to Frankfurt nad Odrą, ale idea oderspace to łączenie dwumiast na t
 [Odra – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Odra)
 
 Miasto / Państwo 
-[Odry](https://pl.wikipedia.org/wiki/Odry_(Czechy) "Odry (Czechy)") ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/22px-Flag_of_the_Czech_Republic.svg.png) [Czechy](https://pl.wikipedia.org/wiki/Czechy "Czechy") [Ostrawa](https://pl.wikipedia.org/wiki/Ostrawa "Ostrawa") [Bogumin](https://pl.wikipedia.org/wiki/Bogumin "Bogumin") [Racibórz](https://pl.wikipedia.org/wiki/Racib%C3%B3rz "Racibórz") ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/22px-Flag_of_Poland.svg.png) [Polska](https://pl.wikipedia.org/wiki/Polska "Polska") [Kędzierzyn-Koźle](https://pl.wikipedia.org/wiki/K%C4%99dzierzyn-Ko%C5%BAle "Kędzierzyn-Koźle") [Zdzieszowice](https://pl.wikipedia.org/wiki/Zdzieszowice "Zdzieszowice") [Krapkowice](https://pl.wikipedia.org/wiki/Krapkowice "Krapkowice") [Opole](https://pl.wikipedia.org/wiki/Opole "Opole") [Brzeg](https://pl.wikipedia.org/wiki/Brzeg_(miasto) "Brzeg (miasto)") [Oława](https://pl.wikipedia.org/wiki/O%C5%82awa "Oława") [Jelcz-Laskowice](https://pl.wikipedia.org/wiki/Jelcz-Laskowice "Jelcz-Laskowice") [Wrocław](https://pl.wikipedia.org/wiki/Wroc%C5%82aw "Wrocław") [Brzeg Dolny](https://pl.wikipedia.org/wiki/Brzeg_Dolny "Brzeg Dolny") [Ścinawa](https://pl.wikipedia.org/wiki/%C5%9Acinawa "Ścinawa") [Głogów](https://pl.wikipedia.org/wiki/G%C5%82og%C3%B3w "Głogów") [Bytom Odrzański](https://pl.wikipedia.org/wiki/Bytom_Odrza%C5%84ski "Bytom Odrzański") [Nowa Sól](https://pl.wikipedia.org/wiki/Nowa_S%C3%B3l "Nowa Sól") [Krosno Odrzańskie](https://pl.wikipedia.org/wiki/Krosno_Odrza%C5%84skie "Krosno Odrzańskie") [Eisenhüttenstadt](https://pl.wikipedia.org/wiki/Eisenh%C3%BCttenstadt "Eisenhüttenstadt") ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/22px-Flag_of_Germany.svg.png) [Niemcy](https://pl.wikipedia.org/wiki/Niemcy "Niemcy") [Słubice](https://pl.wikipedia.org/wiki/S%C5%82ubice "Słubice") ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/22px-Flag_of_Poland.svg.png) [Polska](https://pl.wikipedia.org/wiki/Polska "Polska") [Frankfurt nad Odrą](https://pl.wikipedia.org/wiki/Frankfurt_nad_Odr%C4%85 "Frankfurt nad Odrą") ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/22px-Flag_of_Germany.svg.png) [Niemcy](https://pl.wikipedia.org/wiki/Niemcy "Niemcy") [Lubusz](https://pl.wikipedia.org/wiki/Lubusz "Lubusz") [Kostrzyn nad Odrą](https://pl.wikipedia.org/wiki/Kostrzyn_nad_Odr%C4%85 "Kostrzyn nad Odrą") ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/22px-Flag_of_Poland.svg.png) [Polska](https://pl.wikipedia.org/wiki/Polska "Polska") [Schwedt/Oder](https://pl.wikipedia.org/wiki/Schwedt/Oder "Schwedt/Oder") ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/22px-Flag_of_Germany.svg.png) [Niemcy](https://pl.wikipedia.org/wiki/Niemcy "Niemcy") [Gartz (Oder)](https://pl.wikipedia.org/wiki/Gartz_(Oder) "Gartz (Oder)") [Gryfino](https://pl.wikipedia.org/wiki/Gryfino "Gryfino") ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/22px-Flag_of_Poland.svg.png) [Polska](https://pl.wikipedia.org/wiki/Polska "Polska") [Szczecin](https://pl.wikipedia.org/wiki/Szczecin "Szczecin") [Police](https://pl.wikipedia.org/wiki/Police "Police")
+
+## [Odry](https://pl.wikipedia.org/wiki/Odry_(Czechy) "Odry (Czechy)") ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/22px-Flag_of_the_Czech_Republic.svg.png) [Czechy](https://pl.wikipedia.org/wiki/Czechy "Czechy") 
++ [Ostrawa](https://pl.wikipedia.org/wiki/Ostrawa "Ostrawa") 
++ [Bogumin](https://pl.wikipedia.org/wiki/Bogumin "Bogumin") 
++ [Racibórz](https://pl.wikipedia.org/wiki/Racib%C3%B3rz "Racibórz")
+
+
+## ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/22px-Flag_of_Poland.svg.png) 
+[Polska](https://pl.wikipedia.org/wiki/Polska "Polska")
+
++ [Kędzierzyn-Koźle](https://pl.wikipedia.org/wiki/K%C4%99dzierzyn-Ko%C5%BAle "Kędzierzyn-Koźle") 
++ [Zdzieszowice](https://pl.wikipedia.org/wiki/Zdzieszowice "Zdzieszowice") 
++ [Krapkowice](https://pl.wikipedia.org/wiki/Krapkowice "Krapkowice") 
++ [Opole](https://pl.wikipedia.org/wiki/Opole "Opole") 
++ [Brzeg](https://pl.wikipedia.org/wiki/Brzeg_(miasto) "Brzeg (miasto)")
++ [Oława](https://pl.wikipedia.org/wiki/O%C5%82awa "Oława") 
++ [Jelcz-Laskowice](https://pl.wikipedia.org/wiki/Jelcz-Laskowice "Jelcz-Laskowice") 
++ [Wrocław](https://pl.wikipedia.org/wiki/Wroc%C5%82aw "Wrocław")
++ [Brzeg Dolny](https://pl.wikipedia.org/wiki/Brzeg_Dolny "Brzeg Dolny") 
++ [Ścinawa](https://pl.wikipedia.org/wiki/%C5%9Acinawa "Ścinawa") 
++ [Głogów](https://pl.wikipedia.org/wiki/G%C5%82og%C3%B3w "Głogów") 
++ [Bytom Odrzański](https://pl.wikipedia.org/wiki/Bytom_Odrza%C5%84ski "Bytom Odrzański") 
++ [Nowa Sól](https://pl.wikipedia.org/wiki/Nowa_S%C3%B3l "Nowa Sól")
++ [Krosno Odrzańskie](https://pl.wikipedia.org/wiki/Krosno_Odrza%C5%84skie "Krosno Odrzańskie") 
+
+## ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/22px-Flag_of_Germany.svg.png) [Niemcy](https://pl.wikipedia.org/wiki/Niemcy "Niemcy") 
++ [Eisenhüttenstadt](https://pl.wikipedia.org/wiki/Eisenh%C3%BCttenstadt "Eisenhüttenstadt") 
+
+
+## ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/22px-Flag_of_Poland.svg.png) [Polska](https://pl.wikipedia.org/wiki/Polska "Polska") 
++ [Słubice](https://pl.wikipedia.org/wiki/S%C5%82ubice "Słubice") ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/22px-Flag_of_Poland.svg.png) [Polska](https://pl.wikipedia.org/wiki/Polska "Polska") 
+
+
+## ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/22px-Flag_of_Germany.svg.png) [Niemcy](https://pl.wikipedia.org/wiki/Niemcy "Niemcy") 
++ [Frankfurt nad Odrą](https://pl.wikipedia.org/wiki/Frankfurt_nad_Odr%C4%85 "Frankfurt nad Odrą") 
+
+## ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/22px-Flag_of_Poland.svg.png) [Polska](https://pl.wikipedia.org/wiki/Polska "Polska") 
+[Lubusz](https://pl.wikipedia.org/wiki/Lubusz "Lubusz")
+[Kostrzyn nad Odrą](https://pl.wikipedia.org/wiki/Kostrzyn_nad_Odr%C4%85 "Kostrzyn nad Odrą") 
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/22px-Flag_of_Poland.svg.png) 
+[Polska](https://pl.wikipedia.org/wiki/Polska "Polska") 
+
+## ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/22px-Flag_of_Germany.svg.png) [Niemcy](https://pl.wikipedia.org/wiki/Niemcy "Niemcy") 
++ [Schwedt/Oder](https://pl.wikipedia.org/wiki/Schwedt/Oder "Schwedt/Oder") 
++ [Gartz (Oder)](https://pl.wikipedia.org/wiki/Gartz_(Oder) "Gartz (Oder)") 
+
+## ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/22px-Flag_of_Poland.svg.png) [Polska](https://pl.wikipedia.org/wiki/Polska "Polska") 
++ [Gryfino](https://pl.wikipedia.org/wiki/Gryfino "Gryfino") 
++ [Szczecin](https://pl.wikipedia.org/wiki/Szczecin "Szczecin") 
++ [Police](https://pl.wikipedia.org/wiki/Police "Police")
 
 
 ## Cel działania
