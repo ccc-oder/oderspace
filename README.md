@@ -111,12 +111,12 @@ Zrzeszanie się w mniejsze zdecentralizowane komórki i budowanie kultury techni
 
 Rozwiązania powstające w ramach #oderspace, opensource będą podstawą do rozbudowy i poszerzenia zasięgu oddziaływania oderspace w obszarze rzeki Odry.
 
-## techniczne zaplecze
+## Techniczne zaplecze
 
-każdy ma własne, na początku to wystarczy
+Na początku wystarczą istniejące placówki innych stowarzyszeń i działania na poziomie uświadamiania techczniczego społeczności.
+W dalszej perspektzwie powstaną rozwiązania dedykowane dla konkretnzch projektów z określonzm zapleczem technicznym.
 
-
-## komunikacja
+## Tele-komunikacja
 
 na poziomie lokalnym osobiście biorąc udział w co miesięcznych inicjatywach
 oraz co tygodniowych spotkaniach
@@ -126,6 +126,11 @@ w pozostałe dni tygodnia po uzgodnieniu
 
 raz w miesiącu spotkanie w środę.
 
+## Projekty
+
++ oderphone
++ oderpoint
++ oderbot
 
 ## social network
 
