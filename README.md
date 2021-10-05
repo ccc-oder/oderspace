@@ -16,7 +16,7 @@ zapraszam do współpracy, polepszenie świadomości i  kultury technicznej zwi�
 
 ---
 
-## nazwa hackerspace-u
+## Nazwa hackerspace-u
 
 oder + space => obszar odry
 
