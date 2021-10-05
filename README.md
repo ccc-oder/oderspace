@@ -17,7 +17,7 @@ zapraszam do współpracy, polepszenie świadomości i  kultury technicznej zwi�
 
 ## obszar funkcjonowaia: 
 
-obszar rzeki Odry
+obszar rzeki Odry 
 
 to naturalna granica pomiedzy krajami, którą społeczność wokół oderspace może połączyć silniej wspólną techniczną kulturą
 
@@ -27,19 +27,21 @@ Początek to Frankfurt nad Odrą, ale idea oderspace to łączenie dwumiast na t
 
 ## Cel działania
 
-Rozwiązania powstające w ramach oderspace, opensource będą podstawą do rozbudowy i poszerzenia zasięgu oddziaływania oderspace w obszarze rzeki Odry.
+Rozwiązania powstające w ramach #oderspace, opensource będą podstawą do rozbudowy i poszerzenia zasięgu oddziaływania oderspace w obszarze rzeki Odry.
 
 ## techniczne zaplecze
 
-każdy ma własne, na początku to wzstarczy
+każdy ma własne, na początku to wystarczy
 
 
 ## komunikacja
 
-na poziomie lokalnym osobiście biorąc udział w co miesięcznych inicjatzwach
+na poziomie lokalnym osobiście biorąc udział w co miesięcznych inicjatywach
 oraz co tygodniowych spotkaniach
+
 w każdą sobotę są przygotowywane spotkania otwarte
 w pozostałe dni tygodnia po uzgodnieniu
+
 raz w miesiącu spotkanie w środę.
 
 
