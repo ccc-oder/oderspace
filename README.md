@@ -3,7 +3,7 @@ The Website for OderSpace - HackerSpace an der Oder
 
 ---
 Organizowanie się w niepewnych czasach pozwoli nam przetrwać o tyle o ile będziemy świadomi i gotowi do działania.
-Merytoryczne zaplecze dla działań to podstawa w każdej lokalnej społeczności, budujmy już dziś na miarę naszych możliwości.
+Merytoryczne zaplecze dla działań w lokalnej społeczności, budujmy już dziś na miarę naszych możliwości.
 
 ...
 
