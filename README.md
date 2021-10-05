@@ -12,7 +12,7 @@ Zrzeszanie się w mniejsze zdecentralizowane komórki i budowanie kultury techni
 
 https://oderspace.github.io/www.oderspace.de/
 
-zapraszam do współpracy, polepszenie świadomości i  kultury technicznej zwiększy nasz wpływ na korporządy oraz pozwoli na utrzymanie niezależnej infrastruktury telekomunikacyjnej, przyczyniając się do tworzenia niezależnych zdecentralizowanych lokalnych społeczności.
+zapraszam do współpracy, polepszenie świadomości i  kultury technicznej zwiększy nasz wpływ na korporządy oraz pozwoli na utrzymanie niezależnej infrastruktury telekomunikacyjnej, przyczyniając się do wzmocnienia niezależnych zdecentralizowanych lokalnych społeczności.
 
 ---
 
