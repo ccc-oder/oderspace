@@ -7,8 +7,9 @@ Merytoryczne zaplecze dla działań to podstawa w każdej lokalnej społecznośc
 
 ...
 
-Otwieranie lokalnych hackerspace w obszarze Odry o nazwie #OderSpace jest mostem porozumienia na granicy Niemiecko-Polskiej dla wolnych ludzi potrzebujących wsparcia technicznego.
-Zrzeszanie się w mniejsze zdecentralizowane komórki i budowanie kultury technicznej daje szanse na wzmocnienie wpływu społeczności lokalnej i tym samym idei demokracji, zapomnianej w obecnych czasach.
+Lokalne i otwarte hackerspace w obszarze Odry o nazwie #OderSpace mogą się stać mostem porozumienia na granicy Niemiecko-Polsko-Czeskiej dla wolnych ludzi potrzebujących wsparcia technicznego.
+
+Zrzeszanie się w mniejsze zdecentralizowane komórki i budowanie kultury technicznej daje szanse na wzmocnienie wpływu społeczności lokalnej a tym samym zapomnianej idei demokracji.
 
 https://oderspace.github.io/www.oderspace.de/
 
