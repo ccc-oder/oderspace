@@ -2,6 +2,18 @@
 The Website for OderSpace - HackerSpace an der Oder
 
 ---
+organizowanie się w niepewnych czasach pozwoli nam przetrwać o tyle o ile będziemy świadomi i gotowi do działania
+Merytoryczne zaplecze dla działań to podstawa w każdej lokalnej społeczności, budujmy już dziś na miarę naszych możliwości.
+
+...
+
+mój pomysł to otwieranie lokalnych hackerspace, obecnie trwają przygotowania w obszarze odry: #OderSpace 
+
+https://oderspace.github.io/www.oderspace.de/
+
+zapraszam do współpracy, polepszenie świadomości i  kultury technicznej zwiększy nasz wpływ na korporządy oraz pozwoli na utrzymanie niezależnej infrastruktury telekomunikacyjnej, przyczyniając się do tworzenia niezależnych zdecentralizowanych lokalnych społeczności.
+
+---
 
 ## obszar funkcjonowaia: 
 
