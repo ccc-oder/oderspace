@@ -18,12 +18,14 @@ zapraszam do współpracy, polepszenie świadomości i  kultury technicznej zwi�
 
 ## Nazwa hackerspace-u
 
-oder + space => obszar odry
+### oder + space = obszar odry
 
+### oder
 + Oder nawiązuje do obszaru rzeki odry, gdyż z założenia nie ma to być jedno miejsce, tylko zdecentralizowana organizacja
 + Drugie znaczenie to alternatywa oder w j. niem znaczy lub/albo 
 
-Space od hacker-space, obszar
+### space
+-space od hacker-space, obszar
 https://www.merriam-webster.com/dictionary/space
 
 
