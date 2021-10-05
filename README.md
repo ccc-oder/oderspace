@@ -11,9 +11,15 @@ to naturalna granica pomiedzy krajami, którą społeczność wokół oderspace 
 
 obszary współpracy na każdym poziomie z techznicznymi rozwiązaniami w tle.
 
+Początek to Frankfurt nad Odrą, ale idea oderspace to łączenie dwumiast na terenie niemiec i Polski w celu stworzenia lepszej komunikacji między tak specyficznymi obszarami przygranicznymi.
+
+## Cel działania
+
+Rozwiązania powstające w ramach oderspace, opensource będą podstawą do rozbudowy i poszerzenia zasięgu oddziaływania oderspace w obszarze rzeki Odry.
 
 ## techniczne zaplecze
 
+każdy ma własne, na początku to wzstarczy
 
 
 ## komunikacja
