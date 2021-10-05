@@ -47,7 +47,9 @@ Początek to Frankfurt nad Odrą, ale idea oderspace to łączenie dwumiast na t
 
 Miasto / Państwo 
 
-## [Odry](https://pl.wikipedia.org/wiki/Odry_(Czechy) "Odry (Czechy)") ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/22px-Flag_of_the_Czech_Republic.svg.png) [Czechy](https://pl.wikipedia.org/wiki/Czechy "Czechy") 
+## ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/22px-Flag_of_the_Czech_Republic.svg.png) [Czechy](https://pl.wikipedia.org/wiki/Czechy "Czechy")
+
++ [Odry](https://pl.wikipedia.org/wiki/Odry_(Czechy) "Odry (Czechy)") 
 + [Ostrawa](https://pl.wikipedia.org/wiki/Ostrawa "Ostrawa") 
 + [Bogumin](https://pl.wikipedia.org/wiki/Bogumin "Bogumin") 
 + [Racibórz](https://pl.wikipedia.org/wiki/Racib%C3%B3rz "Racibórz")
@@ -76,18 +78,15 @@ Miasto / Państwo
 
 
 ## ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/22px-Flag_of_Poland.svg.png) [Polska](https://pl.wikipedia.org/wiki/Polska "Polska") 
-+ [Słubice](https://pl.wikipedia.org/wiki/S%C5%82ubice "Słubice") ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/22px-Flag_of_Poland.svg.png) [Polska](https://pl.wikipedia.org/wiki/Polska "Polska") 
++ [Słubice](https://pl.wikipedia.org/wiki/S%C5%82ubice "Słubice") 
 
 
 ## ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/22px-Flag_of_Germany.svg.png) [Niemcy](https://pl.wikipedia.org/wiki/Niemcy "Niemcy") 
 + [Frankfurt nad Odrą](https://pl.wikipedia.org/wiki/Frankfurt_nad_Odr%C4%85 "Frankfurt nad Odrą") 
 
 ## ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/22px-Flag_of_Poland.svg.png) [Polska](https://pl.wikipedia.org/wiki/Polska "Polska") 
-[Lubusz](https://pl.wikipedia.org/wiki/Lubusz "Lubusz")
-[Kostrzyn nad Odrą](https://pl.wikipedia.org/wiki/Kostrzyn_nad_Odr%C4%85 "Kostrzyn nad Odrą") 
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/22px-Flag_of_Poland.svg.png) 
-[Polska](https://pl.wikipedia.org/wiki/Polska "Polska") 
++ [Lubusz](https://pl.wikipedia.org/wiki/Lubusz "Lubusz")
++ [Kostrzyn nad Odrą](https://pl.wikipedia.org/wiki/Kostrzyn_nad_Odr%C4%85 "Kostrzyn nad Odrą") 
 
 ## ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/22px-Flag_of_Germany.svg.png) [Niemcy](https://pl.wikipedia.org/wiki/Niemcy "Niemcy") 
 + [Schwedt/Oder](https://pl.wikipedia.org/wiki/Schwedt/Oder "Schwedt/Oder") 
