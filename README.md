@@ -136,3 +136,9 @@ raz w miesiącu spotkanie w środę.
 
 globalnie poprzez konferencje oraz social medium oderspace
 specjalnie przygotowane do wymianz doświadczeń, dzieleniem się swoimi rozwiązaniami.
+
+
+
+---
++ [edit](https://github.com/ccc-oder/oderspace/edit/main/README.md)
++ [Chaos Computer Club an der Oder -> ccc oder .org](https://www.cccoder.org/)
